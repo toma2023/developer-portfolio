@@ -21,7 +21,7 @@
 
 .header {
     background: #FFF8F3;
-    background-image: url('../images/images/header_bg.png'), url('../images/images/developer.png');
+    background-image: url('/styles/images/images/header_bg.png'), url('/styles/images/images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, left;
 }
